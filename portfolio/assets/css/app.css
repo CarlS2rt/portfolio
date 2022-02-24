@@ -26,6 +26,7 @@ footer a {
 }
 
 .header-container {
+  min-height: fitcontent;
   display: flex;
   align-items: center;
   flex-direction: column;
